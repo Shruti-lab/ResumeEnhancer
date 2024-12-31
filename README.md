@@ -1,1 +1,2 @@
 # ResumeEnhancer
+This project is a resume enhancer and analyzer built using the MERN stack and powered by the Gemini API. It helps users optimize their resumes by providing AI-driven analysis and actionable feedback. The tool checks for resume relevance to job description and overall structure, ensuring resumes meet industry standards. With an intuitive, user-friendly interface, users can upload their resumes, receive personalized suggestions, and improve their documents to stand out in competitive job markets. 
