@@ -1,0 +1,16 @@
+.nav {
+    background-color: #333;
+    color : white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2 rems;
+    padding: 0 1rem;
+
+}
+
+.nav ul{
+    line-style:none;
+    display : flux;
+    gap = 1rem;
+}
